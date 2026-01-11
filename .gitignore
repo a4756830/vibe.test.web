@@ -32,3 +32,6 @@ artifacts/
 Thumbs.db
 /Vibe.Test.Libary/bin
 /Vibe.Test.Libary/obj
+Vibe.Test.Libary/obj
+Vibe.Test.Model/obj
+Vibe.Test.Servcie/obj
