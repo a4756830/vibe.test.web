@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Vibe.Test.Libary/Vibe.Test.Libary.csproj" />
+  <Project Path="Vibe.Test.Model/Vibe.Test.Model.csproj" />
+  <Project Path="Vibe.Test.Servcie/Vibe.Test.Servcie.csproj" />
+  <Project Path="Vibe.Test.Web/Vibe.Test.Web.csproj" />
+</Solution>
