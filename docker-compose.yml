@@ -8,8 +8,7 @@ services:
       - "5000:8080"
       - "5001:8081"
     environment:
-      - ASPNETCORE_ENVIRONMENT=Development
-      - ConnectionStrings__DefaultConnection=Host=postgres;Port=5432;Database=vibedb;Username=postgres;Password=postgres123
+      ASPNETCORE_ENVIRONMENT: Docker
     depends_on:
       postgres:
         condition: service_healthy
