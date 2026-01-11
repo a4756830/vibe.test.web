@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Vibe.Test.Model\Vibe.Test.Model.csproj" />
+    <ProjectReference Include="..\Vibe.Test.Servcie\Vibe.Test.Servcie.csproj" />
   </ItemGroup>
 
 </Project>

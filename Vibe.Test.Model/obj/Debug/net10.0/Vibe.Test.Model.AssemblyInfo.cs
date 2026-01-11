@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vibe.Test.Model")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e910136be7d1a2e6e06434d377da1b679cb70419")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+425b00e2b958df004bb426634928ea4af28d1195")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vibe.Test.Model")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vibe.Test.Model")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

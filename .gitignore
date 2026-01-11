@@ -1,3 +1,34 @@
-/.vs
-/Vibe.Test.Web/bin
-/Vibe.Test.Web/obj
+# Build results
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+*.cache
+
+# User-specific files
+*.rsuser
+
+# NuGet
+*.nupkg
+**/packages/*
+
+# Test results
+[Tt]est[Rr]esult*/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+/Vibe.Test.Libary/bin
+/Vibe.Test.Libary/obj
